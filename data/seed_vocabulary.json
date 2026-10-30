@@ -1,0 +1,342 @@
+[
+  {
+    "kannada_text": "ನಮಸ್ಕಾರ",
+    "transliteration": "Namaskāra",
+    "english_meaning": "Hello / Greetings",
+    "hindi_meaning": "नमस्ते",
+    "marathi_meaning": "नमस्कार",
+    "example_kannada": "ನಮಸ್ಕಾರ, ಎಲ್ಲರಿಗೂ ಶುಭೋದಯ.",
+    "example_transliteration": "Namaskāra, ellarigū śubhōdaya.",
+    "example_translation": {
+      "en": "Hello, good morning to everyone.",
+      "hi": "नमस्ते, सभी को शुभ प्रभात।",
+      "mr": "नमस्कार, सर्वांना शुभ सकाळ."
+    },
+    "category": "Greetings",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಧನ್ಯವಾದಗಳು",
+    "transliteration": "Dhanyavādagaḷu",
+    "english_meaning": "Thank you very much",
+    "hindi_meaning": "धन्यवाद / शुक्रिया",
+    "marathi_meaning": "धन्यवाद / आभारी आहे",
+    "example_kannada": "ನಿಮ್ಮ ಸಹಾಯಕ್ಕೆ ತುಂಬಾ ಧನ್ಯವಾದಗಳು.",
+    "example_transliteration": "Nimma sahāyakke tumbā dhanyavādagaḷu.",
+    "example_translation": {
+      "en": "Thank you very much for your help.",
+      "hi": "आपकी मदद के लिए बहुत-बहुत धन्यवाद।",
+      "mr": "तुमच्या मदतीबद्दल खूप खूप धन्यवाद."
+    },
+    "category": "Greetings",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಹೌದು",
+    "transliteration": "Haudu",
+    "english_meaning": "Yes",
+    "hindi_meaning": "हाँ",
+    "marathi_meaning": "हो",
+    "example_kannada": "ಹೌದು, ನಾನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ.",
+    "example_transliteration": "Haudu, nānu kaliyuttiddēne.",
+    "example_translation": {
+      "en": "Yes, I am learning.",
+      "hi": "हाँ, मैं सीख रहा हूँ।",
+      "mr": "हो, मी शिकत आहे."
+    },
+    "category": "Basics",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಇಲ್ಲ",
+    "transliteration": "Illa",
+    "english_meaning": "No / Not there",
+    "hindi_meaning": "नहीं",
+    "marathi_meaning": "नाही",
+    "example_kannada": "ಇಲ್ಲ, ನನಗೆ ಬೇಡ.",
+    "example_transliteration": "Illa, nanage bēḍa.",
+    "example_translation": {
+      "en": "No, I don't want it.",
+      "hi": "नहीं, मुझे नहीं चाहिए।",
+      "mr": "नाही, मला नको आहे."
+    },
+    "category": "Basics",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಬೇಕು",
+    "transliteration": "Bēku",
+    "english_meaning": "Want / Need",
+    "hindi_meaning": "चाहिए",
+    "marathi_meaning": "हवे आहे / पाहिजे",
+    "example_kannada": "ನನಗೆ ಒಂದು ಲೋಟ ನೀರು ಬೇಕು.",
+    "example_transliteration": "Nanage ondu lōṭa nīru bēku.",
+    "example_translation": {
+      "en": "I need a glass of water.",
+      "hi": "मुझे एक गिलास पानी चाहिए।",
+      "mr": "मला एक ग्लास पाणी हवे आहे."
+    },
+    "category": "Basics",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಬೇಡ",
+    "transliteration": "Bēḍa",
+    "english_meaning": "Don't want / No need",
+    "hindi_meaning": "नहीं चाहिए",
+    "marathi_meaning": "नको आहे",
+    "example_kannada": "ಖಾರ ಬೇಡ, ಸಿಹಿ ಕೊಡಿ.",
+    "example_transliteration": "Khāra bēḍa, sihi koḍi.",
+    "example_translation": {
+      "en": "Don't make it spicy, give something sweet.",
+      "hi": "तीखा मत बनाइए, मीठा दीजिए।",
+      "mr": "तिखट नको, गोड द्या."
+    },
+    "category": "Basics",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಎಷ್ಟು?",
+    "transliteration": "Eṣṭu?",
+    "english_meaning": "How much? / How many?",
+    "hindi_meaning": "कितना? / कितने?",
+    "marathi_meaning": "किती?",
+    "example_kannada": "ಈ ಪುಸ್ತಕಕ್ಕೆ ಎಷ್ಟು ಬೆಲೆ?",
+    "example_transliteration": "Ī pustakakke eṣṭu bele?",
+    "example_translation": {
+      "en": "How much is the price of this book?",
+      "hi": "इस पुस्तक की कीमत कितनी है?",
+      "mr": "या पुस्तकाची किंमत किती आहे?"
+    },
+    "category": "Shopping",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಎಲ್ಲಿ?",
+    "transliteration": "Elli?",
+    "english_meaning": "Where?",
+    "hindi_meaning": "कहाँ?",
+    "marathi_meaning": "कुठे?",
+    "example_kannada": "ಮೆಟ್ರೋ ನಿಲ್ದಾಣ ಎಲ್ಲಿ ಇದೆ?",
+    "example_transliteration": "Meṭrō nildāṇa elli ide?",
+    "example_translation": {
+      "en": "Where is the metro station?",
+      "hi": "मेट्रो स्टेशन कहाँ है?",
+      "mr": "मेट्रो स्टेशन कुठे आहे?"
+    },
+    "category": "Travel",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ನೀರು",
+    "transliteration": "Nīru",
+    "english_meaning": "Water",
+    "hindi_meaning": "पानी",
+    "marathi_meaning": "पाणी",
+    "example_kannada": "ಕುಡಿಯಲು ಶುದ್ಧ ನೀರು ಕೊಡಿ.",
+    "example_transliteration": "Kuḍiyalu śuddha nīru koḍi.",
+    "example_translation": {
+      "en": "Please give clean drinking water.",
+      "hi": "पीने के लिए साफ़ पानी दीजिए।",
+      "mr": "पिण्यासाठी स्वच्छ पाणी द्या."
+    },
+    "category": "Food & Dining",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಊಟ",
+    "transliteration": "Ūṭa",
+    "english_meaning": "Meal / Lunch / Dinner",
+    "hindi_meaning": "भोजन / खाना",
+    "marathi_meaning": "जेवण",
+    "example_kannada": "ನಿಮ್ಮ ಊಟ ಆಯ್ತಾ?",
+    "example_transliteration": "Nimma ūṭa āytā?",
+    "example_translation": {
+      "en": "Did you have your meal?",
+      "hi": "आपका खाना हो गया?",
+      "mr": "तुमचे जेवण झाले का?"
+    },
+    "category": "Food & Dining",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ತಿಂಡಿ",
+    "transliteration": "Tiṇḍi",
+    "english_meaning": "Snacks / Breakfast",
+    "hindi_meaning": "नाश्ता",
+    "marathi_meaning": "नाश्ता",
+    "example_kannada": "ಬೆಳಗಿನ ತಿಂಡಿ ಏನು ಮಾಡಿದ್ದೀರಿ?",
+    "example_transliteration": "Beḷagina tiṇḍi ēnu māḍiddīri?",
+    "example_translation": {
+      "en": "What did you make for morning breakfast?",
+      "hi": "सुबह के नाश्ते में क्या बनाया है?",
+      "mr": "सकाळच्या नाश्त्याला काय केले आहे?"
+    },
+    "category": "Food & Dining",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಕಾಫಿ",
+    "transliteration": "Kāfi",
+    "english_meaning": "Coffee",
+    "hindi_meaning": "कॉफ़ी",
+    "marathi_meaning": "कॉफी",
+    "example_kannada": "ಒಂದು ಬಿಸಿ ಫಿಲ್ಟರ್ ಕಾಫಿ ಕೊಡಿ.",
+    "example_transliteration": "Ondu bisi philṭar kāfi koḍi.",
+    "example_translation": {
+      "en": "Give one hot filter coffee.",
+      "hi": "एक गर्म फ़िल्टर कॉफ़ी दीजिए।",
+      "mr": "एक गरम फिल्टर कॉफी द्या."
+    },
+    "category": "Food & Dining",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಚಹಾ",
+    "transliteration": "Cahā",
+    "english_meaning": "Tea",
+    "hindi_meaning": "चाय",
+    "marathi_meaning": "चहा",
+    "example_kannada": "ಶುಂಠಿ ಚಹಾ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ.",
+    "example_transliteration": "Śuṇṭhi cahā tumbā cennāgide.",
+    "example_translation": {
+      "en": "The ginger tea is very good.",
+      "hi": "अदरक वाली चाय बहुत अच्छी है।",
+      "mr": "आल्याचा चहा खूप छान आहे."
+    },
+    "category": "Food & Dining",
+    "level": 1,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ನೇರವಾಗಿ",
+    "transliteration": "Nēravāgi",
+    "english_meaning": "Straight",
+    "hindi_meaning": "सीधे",
+    "marathi_meaning": "सरळ",
+    "example_kannada": "ನೇರವಾಗಿ ಹೋಗಿ, ವೃತ್ತ ಸಿಗುತ್ತದೆ.",
+    "example_transliteration": "Nēravāgi hōgi, vr̥tta siguttade.",
+    "example_translation": {
+      "en": "Go straight, you will find the circle/roundabout.",
+      "hi": "सीधे जाइए, आगे चौराहा मिलेगा।",
+      "mr": "सरळ जा, पुढे चौक मिळेल."
+    },
+    "category": "Travel",
+    "level": 2,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಎಡಕ್ಕೆ",
+    "transliteration": "Eḍakke",
+    "english_meaning": "To the left",
+    "hindi_meaning": "बाईं ओर",
+    "marathi_meaning": "डाव्या बाजूला",
+    "example_kannada": "ಮುಂದಿನ ಗಲ್ಲಿಯಲ್ಲಿ ಎಡಕ್ಕೆ ತಿರುಗಿ.",
+    "example_transliteration": "Mundina galliyalli eḍakke tirugi.",
+    "example_translation": {
+      "en": "Turn left at the next lane.",
+      "hi": "अगली गली में बाईं ओर मुड़िए।",
+      "mr": "पुढच्या गल्लीत डावीकडे वळा."
+    },
+    "category": "Travel",
+    "level": 2,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಬಲಕ್ಕೆ",
+    "transliteration": "Balakke",
+    "english_meaning": "To the right",
+    "hindi_meaning": "दायीं ओर",
+    "marathi_meaning": "उजव्या बाजूला",
+    "example_kannada": "ಸಿಗ್ನಲ್ ದಾಟಿ ಬಲಕ್ಕೆ ಹೋಗಿ.",
+    "example_transliteration": "Signal dāṭi balakke hōgi.",
+    "example_translation": {
+      "en": "Cross the traffic signal and go right.",
+      "hi": "ट्रैफ़िक सिग्नल पार करके दायीं ओर जाइए।",
+      "mr": "सिग्नल ओलांडून उजवीकडे जा."
+    },
+    "category": "Travel",
+    "level": 2,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಹತ್ತಿರ",
+    "transliteration": "Hattira",
+    "english_meaning": "Near / Nearby",
+    "hindi_meaning": "पास में / नज़दीक",
+    "marathi_meaning": "जवळ",
+    "example_kannada": "ಆಸ್ಪತ್ರೆ ಇಲ್ಲಿಗೆ ತುಂಬಾ ಹತ್ತಿರ.",
+    "example_transliteration": "Āspatre illige tumbā hattira.",
+    "example_translation": {
+      "en": "The hospital is very near from here.",
+      "hi": "अस्पताल यहाँ से बहुत पास है।",
+      "mr": "हॉस्पिटल येथून खूप जवळ आहे."
+    },
+    "category": "Travel",
+    "level": 2,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ದೂರ",
+    "transliteration": "Dūra",
+    "english_meaning": "Far / Distant",
+    "hindi_meaning": "दूर",
+    "marathi_meaning": "लांब / दूर",
+    "example_kannada": "ವಿಮಾನ ನಿಲ್ದಾಣ ತುಂಬಾ ದೂರವಿದೆ.",
+    "example_transliteration": "Vimāna nildāṇa tumbā dūravide.",
+    "example_translation": {
+      "en": "The airport is quite far away.",
+      "hi": "हवाई अड्डा काफ़ी दूर है।",
+      "mr": "विमानतळ खूप लांब आहे."
+    },
+    "category": "Travel",
+    "level": 2,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಸಹಾಯ",
+    "transliteration": "Sahāya",
+    "english_meaning": "Help / Assistance",
+    "hindi_meaning": "मदद / सहायता",
+    "marathi_meaning": "मदत",
+    "example_kannada": "ನನಗೆ ಸ್ವಲ್ಪ ಸಹಾಯ ಬೇಕು.",
+    "example_transliteration": "Nanage svalpa sahāya bēku.",
+    "example_translation": {
+      "en": "I need a little help.",
+      "hi": "मुझे थोड़ी मदद चाहिए।",
+      "mr": "मला थोडी मदत हवी आहे."
+    },
+    "category": "Social",
+    "level": 2,
+    "audio_reference": null
+  },
+  {
+    "kannada_text": "ಮತ್ತೆ ಸಿಗೋಣ",
+    "transliteration": "Matte sigōṇa",
+    "english_meaning": "See you again",
+    "hindi_meaning": "फिर मिलेंगे",
+    "marathi_meaning": "पुन्हा भेटू",
+    "example_kannada": "ತುಂಬಾ ಸಂತೋಷ, ನಾಳೆ ಮತ್ತೆ ಸಿಗೋಣ.",
+    "example_transliteration": "Tumbā santōṣa, nāḷe matte sigōṇa.",
+    "example_translation": {
+      "en": "Very happy to meet you, see you again tomorrow.",
+      "hi": "मिलकर बहुत खुशी हुई, कल फिर मिलेंगे।",
+      "mr": "भेटून खूप आनंद झाला, उद्या पुन्हा भेटू."
+    },
+    "category": "Greetings",
+    "level": 2,
+    "audio_reference": null
+  }
+]

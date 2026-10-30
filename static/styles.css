@@ -1,0 +1,143 @@
+/* =====================================================================
+   Kannada for Everyone: Custom UI Stylesheet
+   Color Palette: Deep Green, Cream, Dark Charcoal, Gold Accents
+   ===================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&display=swap');
+
+:root {
+  --brand-primary: #1b5e20;
+  --brand-secondary: #2e7d32;
+  --brand-accent: #f9a825;
+  --brand-light: #e8f5e9;
+  --brand-surface: #ffffff;
+  --brand-bg: #faf9f5;
+  --text-main: #212121;
+  --text-muted: #5f6368;
+  --border-light: #e0e0e0;
+  --radius-card: 12px;
+  --shadow-subtle: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* Global Font and Body */
+html, body, [class*="css"] {
+  font-family: 'Inter', 'Noto Sans Kannada', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--text-main);
+}
+
+/* Kannada Script Enhancements */
+.kannada-text {
+  font-family: 'Noto Sans Kannada', 'Inter', sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.7;
+  color: var(--brand-primary);
+  font-weight: 600;
+}
+
+.kannada-large {
+  font-family: 'Noto Sans Kannada', 'Inter', sans-serif;
+  font-size: 1.75rem;
+  line-height: 1.6;
+  color: #1b5e20;
+  font-weight: 700;
+}
+
+.translit-text {
+  font-style: italic;
+  color: #555555;
+  font-size: 1.05rem;
+}
+
+.meaning-text {
+  color: #333333;
+  font-size: 1.05rem;
+}
+
+/* Cards and Panels */
+.kfe-card {
+  background-color: var(--brand-surface);
+  border: 1px solid #dce7db;
+  border-radius: var(--radius-card);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  box-shadow: var(--shadow-subtle);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.kfe-card:hover {
+  box-shadow: 0 6px 16px rgba(27, 94, 32, 0.08);
+}
+
+.kfe-panel-green {
+  background-color: #f1f8f3;
+  border-left: 4px solid var(--brand-primary);
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.kfe-badge {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 20px;
+  background-color: var(--brand-light);
+  color: var(--brand-primary);
+}
+
+.kfe-badge-gold {
+  background-color: #fff8e1;
+  color: #b78103;
+}
+
+/* Metrics and Dashboard Items */
+.metric-container {
+  text-align: center;
+  padding: 1rem;
+  background: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
+}
+
+.metric-val {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--brand-primary);
+}
+
+.metric-lbl {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Conversation Chat Bubbles */
+.chat-bubble-user {
+  background-color: #e3f2fd;
+  border-left: 4px solid #1976d2;
+  padding: 0.85rem 1.1rem;
+  border-radius: 10px;
+  margin-bottom: 0.75rem;
+}
+
+.chat-bubble-ai {
+  background-color: #edf7ee;
+  border-left: 4px solid var(--brand-primary);
+  padding: 0.85rem 1.1rem;
+  border-radius: 10px;
+  margin-bottom: 0.75rem;
+}
+
+/* Buttons and Highlights */
+.stButton > button {
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.15s ease-in-out;
+}
+
+.stButton > button:hover {
+  border-color: var(--brand-primary);
+  color: var(--brand-primary);
+}

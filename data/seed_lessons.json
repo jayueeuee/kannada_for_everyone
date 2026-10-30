@@ -1,0 +1,562 @@
+[
+  {
+    "slug": "level1-lesson1-greetings",
+    "title": "Essential Greetings & Politeness (ಮೂಲ ನಮಸ್ಕಾರಗಳು)",
+    "description": "Master everyday greetings, asking how someone is, polite words like thank you and please in Kannada.",
+    "level": 1,
+    "lesson_order": 1,
+    "estimated_minutes": 10,
+    "pass_score": 70,
+    "content_json": {
+      "objective": "Learn to greet people, ask 'How are you?', and say 'Thank you' with respect in Kannada.",
+      "vocabulary": [
+        {
+          "kannada": "ನಮಸ್ಕಾರ",
+          "transliteration": "Namaskāra",
+          "english": "Hello / Greetings",
+          "hindi": "नमस्ते",
+          "marathi": "नमस्कार",
+          "example": "ನಮಸ್ಕಾರ, ಹೇಗಿದ್ದೀರ? (Hello, how are you?)"
+        },
+        {
+          "kannada": "ಹೇಗಿದ್ದೀರ?",
+          "transliteration": "Hēgiddīra?",
+          "english": "How are you? (polite/respectful)",
+          "hindi": "आप कैसे हैं?",
+          "marathi": "तुम्ही कसे आहात?",
+          "example": "ಸರ್, ನೀವು ಹೇಗಿದ್ದೀರ? (Sir, how are you?)"
+        },
+        {
+          "kannada": "ಚೆನ್ನಾಗಿದ್ದೀನಿ",
+          "transliteration": "Cennāgiddīni",
+          "english": "I am fine",
+          "hindi": "मैं ठीक हूँ",
+          "marathi": "मी छान आहे",
+          "example": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ. (I am doing well.)"
+        },
+        {
+          "kannada": "ಧನ್ಯವಾದಗಳು",
+          "transliteration": "Dhanyavādagaḷu",
+          "english": "Thank you",
+          "hindi": "धन्यवाद / शुक्रिया",
+          "marathi": "धन्यवाद",
+          "example": "ತುಂಬಾ ಧನ್ಯವಾದಗಳು. (Thank you very much.)"
+        },
+        {
+          "kannada": "ದಯವಿಟ್ಟು",
+          "transliteration": "Dayaviṭṭu",
+          "english": "Please",
+          "hindi": "कृपया",
+          "marathi": "कृपया",
+          "example": "ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ. (Please come inside.)"
+        },
+        {
+          "kannada": "ಹೌದು / ಇಲ್ಲ",
+          "transliteration": "Haudu / Illa",
+          "english": "Yes / No",
+          "hindi": "हाँ / नहीं",
+          "marathi": "हो / नाही",
+          "example": "ಹೌದು, ನನಗೆ ಬೇಕು. (Yes, I want it.)"
+        }
+      ],
+      "grammar_notes": {
+        "en": "In Kannada, verbs change endings depending on respect. 'ಹೇಗಿದ್ದೀರ?' (Hegiddira) is polite and respectful (addressed to elders, strangers, or plural). 'ಹೇಗಿದ್ದೀಯ?' (Hegiddiya) is informal for close friends or kids.",
+        "hi": "कन्नड़ में सम्मान देने के लिए क्रिया के अंत में 'ira' जुड़ता है जैसे 'ಹೇಗಿದ್ದೀರ?' (आप कैसे हैं?), जबकि दोस्तों के लिए 'ಹೇಗಿದ್ದೀಯ?' (तू कैसा है?) प्रयुक्त होता है।",
+        "mr": "कन्नडमध्ये आदराने बोलण्यासाठी 'ಹೇಗಿದ್ದೀರ?' (तुम्ही कसे आहात?) वापरतात, आणि लहानांसाठी किंवा मित्रांसाठी 'ಹೇಗಿದ್ದೀಯ?' वापरतात."
+      },
+      "exercises": [
+        {
+          "id": "m1",
+          "type": "matching",
+          "question": "Match the Kannada greeting to its English meaning:",
+          "pairs": [
+            {"kannada": "ನಮಸ್ಕಾರ", "match": "Hello"},
+            {"kannada": "ಧನ್ಯವಾದಗಳು", "match": "Thank you"},
+            {"kannada": "ದಯವಿಟ್ಟು", "match": "Please"},
+            {"kannada": "ಚೆನ್ನಾಗಿದ್ದೀನಿ", "match": "I am fine"}
+          ],
+          "explanation": "ನಮಸ್ಕಾರ is Hello, ಧನ್ಯವಾದಗಳು means Thank you, ದಯವಿಟ್ಟು means Please, and ಚೆನ್ನಾಗಿದ್ದೀನಿ means I am fine."
+        },
+        {
+          "id": "f1",
+          "type": "fill_blank",
+          "question": "Complete the response: 'ನಾನು ________' (I am fine).",
+          "options": ["ಚೆನ್ನಾಗಿದ್ದೀನಿ", "ನಮಸ್ಕಾರ", "ಧನ್ಯವಾದಗಳು", "ಇಲ್ಲ"],
+          "correct_answer": "ಚೆನ್ನಾಗಿದ್ದೀನಿ",
+          "explanation": "The proper response to 'Hegiddira?' is 'Nānu cennāgiddīni' (I am fine)."
+        },
+        {
+          "id": "t1",
+          "type": "translation",
+          "question": "How do you politely ask 'How are you?' in Kannada?",
+          "options": ["ಹೇಗಿದ್ದೀರ?", "ಏನು ಬೇಕು?", "ಎಲ್ಲಿಗೆ ಹೋಗ್ತೀರ?", "ಯಾರು ನೀವು?"],
+          "correct_answer": "ಹೇಗಿದ್ದೀರ?",
+          "explanation": "'ಹೇಗಿದ್ದೀರ?' (Hēgiddīra?) is the polite and universally accepted way to ask 'How are you?'."
+        },
+        {
+          "id": "r1",
+          "type": "role_play",
+          "prompt": "Someone opens the door and says: 'ನಮಸ್ಕಾರ! ಬನ್ನಿ.' How do you reply politely?",
+          "suggested_response": "ನಮಸ್ಕಾರ, ಧನ್ಯವಾದಗಳು! (Namaskāra, dhanyavādagaḷu!)",
+          "explanation": "A polite acknowledgement returned with greetings and thanks is the standard etiquette."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "level1-lesson2-numbers-objects",
+    "title": "Numbers, Quantities & Common Objects (ಸಂಖ್ಯೆಗಳು ಮತ್ತು ವಸ್ತುಗಳು)",
+    "description": "Learn numbers 1 to 10, asking prices, and essential everyday items in Kannada.",
+    "level": 1,
+    "lesson_order": 2,
+    "estimated_minutes": 12,
+    "pass_score": 70,
+    "content_json": {
+      "objective": "Count from one to ten and ask 'How much?' or specify quantities in Kannada.",
+      "vocabulary": [
+        {
+          "kannada": "ಒಂದು, ಎರಡು, ಮೂರು, ನಾಲ್ಕು, ಐದು",
+          "transliteration": "Ondu, Eraḍu, Mūru, Nālku, Aidu",
+          "english": "1, 2, 3, 4, 5",
+          "hindi": "एक, दो, तीन, चार, पांच",
+          "marathi": "एक, दोन, तीन, चार, पाच",
+          "example": "ಎರಡು ಚಹಾ ಕೊಡಿ. (Give two teas.)"
+        },
+        {
+          "kannada": "ಆರು, ಏಳು, ಎಂಟು, ಒಂಬತ್ತು, ಹತ್ತು",
+          "transliteration": "Āru, Ēḷu, Eṇṭu, Ombattu, Hattu",
+          "english": "6, 7, 8, 9, 10",
+          "hindi": "छह, सात, आठ, नौ, दस",
+          "marathi": "सहा, सात, आठ, नऊ, दहा",
+          "example": "ಹತ್ತು ರೂಪಾಯಿ. (Ten rupees.)"
+        },
+        {
+          "kannada": "ಎಷ್ಟು?",
+          "transliteration": "Eṣṭu?",
+          "english": "How much? / How many?",
+          "hindi": "कितना? / कितने?",
+          "marathi": "किती?",
+          "example": "ಇದಕ್ಕೆ ಎಷ್ಟು ರೂಪಾಯಿ? (How many rupees for this?)"
+        },
+        {
+          "kannada": "ಇದು / ಅದು",
+          "transliteration": "Idu / Adu",
+          "english": "This / That",
+          "hindi": "यह / वह",
+          "marathi": "हे / ते",
+          "example": "ಇದು ಏನು? (What is this?)"
+        },
+        {
+          "kannada": "ನೀರು",
+          "transliteration": "Nīru",
+          "english": "Water",
+          "hindi": "पानी",
+          "marathi": "पाणी",
+          "example": "ಕುಡಿಯಲು ನೀರು ಕೊಡಿ. (Give drinking water.)"
+        }
+      ],
+      "grammar_notes": {
+        "en": "To ask for an item politely, state the item followed by 'ಕೊಡಿ' (Kodi - Give/please give). E.g., 'ನೀರು ಕೊಡಿ' (Neeru kodi = Please give water).",
+        "hi": "कन्नड़ में सम्मान से कुछ माँगने के लिए वस्तु के नाम के बाद 'ಕೊಡಿ' (कोडि - दीजिए) लगाएँ। जैसे 'ನೀರು ಕೊಡಿ' (पानी दीजिए)।",
+        "mr": "कोणतीही गोष्ट मागताना शब्दाच्या शेवटी 'ಕೊಡಿ' (कोडी - द्या) लावावे. उदा. 'ನೀರು ಕೊಡಿ' (पाणी द्या)."
+      },
+      "exercises": [
+        {
+          "id": "m2",
+          "type": "matching",
+          "question": "Match the numbers to digits:",
+          "pairs": [
+            {"kannada": "ಒಂದು", "match": "1"},
+            {"kannada": "ಎರಡು", "match": "2"},
+            {"kannada": "ಮೂರು", "match": "3"},
+            {"kannada": "ಐದು", "match": "5"}
+          ],
+          "explanation": "ಒಂದು = 1, ಎರಡು = 2, ಮೂರು = 3, ಐದು = 5."
+        },
+        {
+          "id": "f2",
+          "type": "fill_blank",
+          "question": "Fill the blank to say 'How much is this?': 'ಇದು ________?'",
+          "options": ["ಎಷ್ಟು", "ನೀರು", "ಹತ್ತು", "ಇಲ್ಲ"],
+          "correct_answer": "ಎಷ್ಟು",
+          "explanation": "'Idu eṣṭu?' translates directly to 'How much is this?'."
+        },
+        {
+          "id": "t2",
+          "type": "translation",
+          "question": "Translate to Kannada: 'Please give water.'",
+          "options": ["ನೀರು ಕೊಡಿ", "ಚಹಾ ಬೇಡ", "ಇದು ಎಷ್ಟು", "ಅಲ್ಲಿ ಹೋಗಿ"],
+          "correct_answer": "ನೀರು ಕೊಡಿ",
+          "explanation": "'ನೀರು' (Nīru) = Water, 'ಕೊಡಿ' (Koḍi) = Give please."
+        },
+        {
+          "id": "r2",
+          "type": "role_play",
+          "prompt": "You are at a tea stall and want to order 2 cups of tea. What do you say?",
+          "suggested_response": "ಎರಡು ಚಹಾ ಕೊಡಿ. (Eraḍu cahā koḍi.)",
+          "explanation": "Eraḍu (2) + cahā (tea) + koḍi (please give)."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "level2-lesson1-needs-wants",
+    "title": "Expressing Needs: Bēku & Bēḍa (ಬೇಕು ಮತ್ತು ಬೇಡ)",
+    "description": "Learn the most powerful Kannada words 'Bēku' (want/need) and 'Bēḍa' (don't want/don't need).",
+    "level": 2,
+    "lesson_order": 1,
+    "estimated_minutes": 15,
+    "pass_score": 75,
+    "content_json": {
+      "objective": "Express what you want, what you don't want, and ask others what they require.",
+      "vocabulary": [
+        {
+          "kannada": "ಬೇಕು",
+          "transliteration": "Bēku",
+          "english": "Want / Need",
+          "hindi": "चाहिए",
+          "marathi": "हवे आहे / पाहिजे",
+          "example": "ನನಗೆ ಕಾಫಿ ಬೇಕು. (I want coffee.)"
+        },
+        {
+          "kannada": "ಬೇಡ",
+          "transliteration": "Bēḍa",
+          "english": "Don't want / Not needed",
+          "hindi": "नहीं चाहिए",
+          "marathi": "नको आहे",
+          "example": "ಸಕ್ಕರೆ ಬೇಡ. (Sugar not needed / don't put sugar.)"
+        },
+        {
+          "kannada": "ನನಗೆ",
+          "transliteration": "Nanage",
+          "english": "To me / For me",
+          "hindi": "मुझे",
+          "marathi": "मला",
+          "example": "ನನಗೆ ಸ್ವಲ್ಪ ಸಮಯ ಬೇಕು. (I need some time.)"
+        },
+        {
+          "kannada": "ನಿಮಗೆ",
+          "transliteration": "Nimage",
+          "english": "To you / For you",
+          "hindi": "आपको",
+          "marathi": "तुम्हाला",
+          "example": "ನಿಮಗೆ ಏನು ಬೇಕು? (What do you want?)"
+        },
+        {
+          "kannada": "ಗೊತ್ತು / ಗೊತ್ತಿಲ್ಲ",
+          "transliteration": "Gottu / Gottilla",
+          "english": "Know / Don't know",
+          "hindi": "मालूम है / मालूम नहीं",
+          "marathi": "माहित आहे / माहित नाही",
+          "example": "ನನಗೆ ಕನ್ನಡ ಸ್ವಲ್ಪ ಗೊತ್ತು. (I know a little Kannada.)"
+        }
+      ],
+      "grammar_notes": {
+        "en": "In Kannada, when using 'bēku' or 'gottu', the subject takes the dative case (-ge): 'ನನಗೆ' (nanage = to me) rather than 'ನಾನು' (nānu = I). For example: 'Nanage kannada gottilla' (I don't know Kannada).",
+        "hi": "हिंदी की तरह जैसे हम 'मुझे चाहिए' कहते हैं (मैं चाहिए नहीं), वैसे ही कन्नड़ में 'ನನಗೆ ಬೇಕು' (ननगे बेकु) कहा जाता है।",
+        "mr": "मराठीप्रमाणेच 'मला हवे आहे' म्हणताना 'ನನಗೆ ಬೇಕು' (ननगे बेकू) वापरले जाते."
+      },
+      "exercises": [
+        {
+          "id": "m3",
+          "type": "matching",
+          "question": "Match the core desire words:",
+          "pairs": [
+            {"kannada": "ಬೇಕು", "match": "Want / Need"},
+            {"kannada": "ಬೇಡ", "match": "Don't want"},
+            {"kannada": "ಗೊತ್ತು", "match": "Know"},
+            {"kannada": "ಗೊತ್ತಿಲ್ಲ", "match": "Don't know"}
+          ],
+          "explanation": "ಬೇಕು is want, ಬೇಡ is don't want, ಗೊತ್ತು is know, and ಗೊತ್ತಿಲ್ಲ is don't know."
+        },
+        {
+          "id": "f3",
+          "type": "fill_blank",
+          "question": "Say 'I don't want sugar': 'ಸಕ್ಕರೆ ________.'",
+          "options": ["ಬೇಡ", "ಬೇಕು", "ಗೊತ್ತು", "ಹೌದು"],
+          "correct_answer": "ಬೇಡ",
+          "explanation": "'Bēḍa' means don't want or not required."
+        },
+        {
+          "id": "t3",
+          "type": "translation",
+          "question": "How do you say 'I know a little Kannada'?",
+          "options": ["ನನಗೆ ಕನ್ನಡ ಸ್ವಲ್ಪ ಗೊತ್ತು", "ನನಗೆ ಕನ್ನಡ ಬೇಡ", "ಕನ್ನಡ ಎಲ್ಲಿ ಇದೆ", "ನೀವು ಯಾರು"],
+          "correct_answer": "ನನಗೆ ಕನ್ನಡ ಸ್ವಲ್ಪ ಗೊತ್ತು",
+          "explanation": "'Nanage' (to me) + 'kannaḍa' + 'svalpa' (little) + 'gottu' (know)."
+        },
+        {
+          "id": "r3",
+          "type": "role_play",
+          "prompt": "The waiter asks: 'ನಿಮಗೆ ಚಹಾ ಬೇಕಾ?' (Do you want tea?). You prefer coffee instead. How do you answer?",
+          "suggested_response": "ಚಹಾ ಬೇಡ, ನನಗೆ ಕಾಫಿ ಬೇಕು. (Cahā bēḍa, nanage kāfi bēku.)",
+          "explanation": "Tea not needed, I want coffee."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "level3-lesson1-shopping-ordering",
+    "title": "Practical Shopping & Market Interactions (ಮಾರುಕಟ್ಟೆ ಸಂಭಾಷಣೆ)",
+    "description": "Navigate vegetable markets, grocery shops, and street vendors with natural Kannada.",
+    "level": 3,
+    "lesson_order": 1,
+    "estimated_minutes": 15,
+    "pass_score": 75,
+    "content_json": {
+      "objective": "Ask for item varieties, check freshness, negotiate respectfully, and request a carry bag.",
+      "vocabulary": [
+        {
+          "kannada": "ತಾಜಾ",
+          "transliteration": "Tājā",
+          "english": "Fresh",
+          "hindi": "ताज़ा",
+          "marathi": "ताजे",
+          "example": "ತರಕಾರಿ ತಾಜಾ ಇದೆಯಾ? (Are the vegetables fresh?)"
+        },
+        {
+          "kannada": "ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಿ",
+          "transliteration": "Svalpa kaḍime māḍi",
+          "english": "Please reduce the price a little",
+          "hindi": "थोड़ा कम कीजिए",
+          "marathi": "थोडे कमी करा",
+          "example": "ತುಂಬಾ ಜಾಸ್ತಿ, ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಿ. (Too expensive, please reduce a little.)"
+        },
+        {
+          "kannada": "ಬ್ಯಾಗ್ ಇದೆಯಾ?",
+          "transliteration": "Byāg ideyā?",
+          "english": "Do you have a bag?",
+          "hindi": "क्या थैला है?",
+          "marathi": "पिशवी आहे का?",
+          "example": "ಒಂದು ಕವರ್ ಅಥವಾ ಬ್ಯಾಗ್ ಕೊಡಿ. (Please give a bag.)"
+        },
+        {
+          "kannada": "ಒಂದು ಕೆಜಿ",
+          "transliteration": "Ondu kēji",
+          "english": "One kilogram",
+          "hindi": "एक किलो",
+          "marathi": "एक किलो",
+          "example": "ಒಂದು ಕೆಜಿ ಈರುಳ್ಳಿ ಕೊಡಿ. (Give one kg onions.)"
+        }
+      ],
+      "grammar_notes": {
+        "en": "Adding 'ಆ' (ā) at the end of a sentence turns a statement into a question. 'ಇದೆ' (ide = it is there) -> 'ಇದೆಯಾ?' (ideyā? = is it there?).",
+        "hi": "क्रिया के अंत में 'आ' स्वर जोड़ने से वाक्य प्रश्न बन जाता है: 'ಇದೆ' (है) -> 'ಇದೆಯಾ?' (क्या है?).",
+        "mr": "वाक्याच्या शेवटी 'आ' जोडल्यास प्रश्न तयार होतो: 'ಇದೆ' (आहे) -> 'ಇದೆಯಾ?' (आहे का?)."
+      },
+      "exercises": [
+        {
+          "id": "m4",
+          "type": "matching",
+          "question": "Match the market phrases:",
+          "pairs": [
+            {"kannada": "ತಾಜಾ ಇದೆಯಾ?", "match": "Is it fresh?"},
+            {"kannada": "ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಿ", "match": "Reduce a bit"},
+            {"kannada": "ಬ್ಯಾಗ್ ಕೊಡಿ", "match": "Give a bag"},
+            {"kannada": "ಒಂದು ಕೆಜಿ", "match": "One kilo"}
+          ],
+          "explanation": "ತಾಜಾ ಇದೆಯಾ? = Is it fresh?, ಕಡಿಮೆ ಮಾಡಿ = Reduce price, ಬ್ಯಾಗ್ ಕೊಡಿ = Give bag."
+        },
+        {
+          "id": "f4",
+          "type": "fill_blank",
+          "question": "To ask 'Do you have a bag?', you say: 'ಬ್ಯಾಗ್ ________?'",
+          "options": ["ಇದೆಯಾ", "ಕೊಡಿ", "ಬೇಡ", "ಎಷ್ಟು"],
+          "correct_answer": "ಇದೆಯಾ",
+          "explanation": "'ideyā?' turns 'it is there' into 'is it there?'."
+        },
+        {
+          "id": "t4",
+          "type": "translation",
+          "question": "Translate: 'Give one kg tomatoes.'",
+          "options": ["ಒಂದು ಕೆಜಿ ಟೊಮ್ಯಾಟೊ ಕೊಡಿ", "ಟೊಮ್ಯಾಟೊ ಬೇಡ", "ಟೊಮ್ಯಾಟೊ ಎಲ್ಲಿ", "ಎರಡು ಕೆಜಿ ಈರುಳ್ಳಿ"],
+          "correct_answer": "ಒಂದು ಕೆಜಿ ಟೊಮ್ಯಾಟೊ ಕೊಡಿ",
+          "explanation": "'Ondu kēji' (one kg) + 'ṭomyāṭo' + 'koḍi' (please give)."
+        },
+        {
+          "id": "r4",
+          "type": "role_play",
+          "prompt": "The vendor quotes ₹100 for apples. You feel it is high. Politely ask them to reduce the price.",
+          "suggested_response": "ಸ್ವಲ್ಪ ಜಾಸ್ತಿ ಆಯ್ತು, ಸ್ವಲ್ಪ ಕಡಿಮೆ ಮಾಡಿ ಸರ್. (Svalpa jāsti āytu, svalpa kaḍime māḍi sar.)",
+          "explanation": "Respectfully pointing out that it is a bit high and asking for a slight reduction."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "level4-lesson1-directions-commuting",
+    "title": "Directions, Auto & Metro Commuting (ದಾರಿ ಮತ್ತು ಸಂಚಾರ)",
+    "description": "Navigate Bengaluru traffic, ride Namma Metro, and communicate smoothly with auto drivers.",
+    "level": 4,
+    "lesson_order": 1,
+    "estimated_minutes": 15,
+    "pass_score": 80,
+    "content_json": {
+      "objective": "Instruct drivers on routes, understand navigation terms, and confirm fare meters.",
+      "vocabulary": [
+        {
+          "kannada": "ಮೀಟರ್ ಹಾಕಿ",
+          "transliteration": "Mīṭar hāki",
+          "english": "Turn on the meter",
+          "hindi": "मीटर चालू कीजिए",
+          "marathi": "मीटर लावा",
+          "example": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ ಹೋಗಿ. (Please go by meter.)"
+        },
+        {
+          "kannada": "ನೇರವಾಗಿ ಹೋಗಿ",
+          "transliteration": "Nēravāgi hōgi",
+          "english": "Go straight",
+          "hindi": "सीधे जाइए",
+          "marathi": "सरळ जा",
+          "example": "ಮುಂದೆ ಸಿಗ್ನಲ್ ವರೆಗೆ ನೇರವಾಗಿ ಹೋಗಿ. (Go straight till the next signal.)"
+        },
+        {
+          "kannada": "ಎಡಕ್ಕೆ / ಬಲಕ್ಕೆ",
+          "transliteration": "Eḍakke / Balakke",
+          "english": "To the left / To the right",
+          "hindi": "बाएं / दाएं",
+          "marathi": "डावीकडे / उजवीकडे",
+          "example": "ಮುಂದೆ ಎಡಕ್ಕೆ ತಿರುಗಿ. (Turn left ahead.)"
+        },
+        {
+          "kannada": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ",
+          "transliteration": "Illi nillisi",
+          "english": "Stop here",
+          "hindi": "यहाँ रोकिए",
+          "marathi": "येथे थांबवा",
+          "example": "ಗೇಟ್ ಮುಂದೆ ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ. (Stop here in front of the gate.)"
+        }
+      ],
+      "grammar_notes": {
+        "en": "Direction suffixes: '-kke' indicates towards (eḍa = left, eḍakke = to the left; bala = right, balakke = to the right).",
+        "hi": "दिशा बताने के लिए '-kke' प्रत्यय लगता है: ಎಡ (बायाँ) -> ಎಡಕ್ಕೆ (बाईं ओर), ಬಲ (दायाँ) -> ಬಲಕ್ಕೆ (दायीं ओर)।",
+        "mr": "दिशेसाठी '-kke' प्रत्यय लागतो: ಎಡಕ್ಕೆ (डाव्या बाजूला), ಬಲಕ್ಕೆ (उजव्या बाजूला)."
+      },
+      "exercises": [
+        {
+          "id": "m5",
+          "type": "matching",
+          "question": "Match commute directions:",
+          "pairs": [
+            {"kannada": "ಮೀಟರ್ ಹಾಕಿ", "match": "Turn on meter"},
+            {"kannada": "ನೇರವಾಗಿ ಹೋಗಿ", "match": "Go straight"},
+            {"kannada": "ಎಡಕ್ಕೆ ತಿರುಗಿ", "match": "Turn left"},
+            {"kannada": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ", "match": "Stop here"}
+          ],
+          "explanation": "Essential transit directions every resident in Karnataka uses."
+        },
+        {
+          "id": "f5",
+          "type": "fill_blank",
+          "question": "Tell the auto driver to stop: 'ಇಲ್ಲಿ ________.'",
+          "options": ["ನಿಲ್ಲಿಸಿ", "ಹೋಗಿ", "ತಿರುಗಿ", "ಬನ್ನಿ"],
+          "correct_answer": "ನಿಲ್ಲಿಸಿ",
+          "explanation": "'Nillisi' means stop."
+        },
+        {
+          "id": "t5",
+          "type": "translation",
+          "question": "Translate: 'Go straight and turn right.'",
+          "options": ["ನೇರವಾಗಿ ಹೋಗಿ, ಬಲಕ್ಕೆ ತಿರುಗಿ", "ಎಡಕ್ಕೆ ಹೋಗಿ ನಿಲ್ಲಿಸಿ", "ಮೀಟರ್ ಹಾಕಿ ಬನ್ನಿ", "ಇಲ್ಲಿ ನಿಲ್ಲಬೇಡಿ"],
+          "correct_answer": "ನೇರವಾಗಿ ಹೋಗಿ, ಬಲಕ್ಕೆ ತಿರುಗಿ",
+          "explanation": "'Nēravāgi hōgi' (go straight) + 'balakke tirugi' (turn right)."
+        },
+        {
+          "id": "r5",
+          "type": "role_play",
+          "prompt": "You have reached your destination. Tell the driver to stop here and ask how much the fare is.",
+          "suggested_response": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ ಸರ್. ಎಷ್ಟು ಆಯ್ತು? (Illi nillisi sar. Eṣṭu āytu?)",
+          "explanation": "Stop here sir. How much is the fare?"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "level5-lesson1-work-social-fluency",
+    "title": "Confident Conversations: Work & Social Life (ಆತ್ಮವಿಶ್ವಾಸದ ಸಂಭಾಷಣೆ)",
+    "description": "Express opinions, participate in workplace conversations, and build lasting friendships in Kannada.",
+    "level": 5,
+    "lesson_order": 1,
+    "estimated_minutes": 20,
+    "pass_score": 80,
+    "content_json": {
+      "objective": "Discuss plans, offer assistance, handle workplace exchanges, and converse smoothly without hesitation.",
+      "vocabulary": [
+        {
+          "kannada": "ಸಹಾಯ ಮಾಡ್ತೀರಾ?",
+          "transliteration": "Sahāya māḍtīrā?",
+          "english": "Can you help me?",
+          "hindi": "क्या आप मदद करेंगे?",
+          "marathi": "तुम्ही मदत कराल का?",
+          "example": "ದಯವಿಟ್ಟು ಒಂದು ನಿಮಿಷ ಸಹಾಯ ಮಾಡ್ತೀರಾ? (Could you please help for a minute?)"
+        },
+        {
+          "kannada": "ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ",
+          "transliteration": "Nanna abhiprāyadalli",
+          "english": "In my opinion",
+          "hindi": "मेरी राय में",
+          "marathi": "माझ्या मते",
+          "example": "ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ ಇದು ಒಳ್ಳೆಯ ಉಪಾಯ. (In my opinion this is a great idea.)"
+        },
+        {
+          "kannada": "ಊಟ ಆಯ್ತಾ?",
+          "transliteration": "Ūṭa āytā?",
+          "english": "Did you have lunch/meal?",
+          "hindi": "खाना हुआ क्या?",
+          "marathi": "जेवण झाले का?",
+          "example": "ನಮಸ್ಕಾರ, ಎಲ್ಲರ ಊಟ ಆಯ್ತಾ? (Hello everyone, did you have your meal?)"
+        },
+        {
+          "kannada": "ಮತ್ತೆ ಸಿಗೋಣ",
+          "transliteration": "Matte sigōṇa",
+          "english": "See you again",
+          "hindi": "फिर मिलेंगे",
+          "marathi": "पुन्हा भेटूया",
+          "example": "ಇವತ್ತಿನ ಮಾತುಕತೆ ತುಂಬಾ ಚೆನ್ನಾಗಿತ್ತು, ಮತ್ತೆ ಸಿಗೋಣ! (Today's chat was wonderful, see you again!)"
+        }
+      ],
+      "grammar_notes": {
+        "en": "'ಊಟ ಆಯ್ತಾ?' (Ūṭa āytā?) is the warmest everyday cultural greeting in Karnataka, equivalent to asking 'How are you?' over lunch hours.",
+        "hi": "कर्नाटक में 'ಊಟ ಆಯ್ತಾ?' (खाना हुआ क्या?) पूछना केवल खाने के बारे में नहीं, बल्कि अपनापन और कुशलक्षेम जताने का सबसे प्यारा तरीक़ा है।",
+        "mr": "कर्नाटकात 'ಊಟ ಆಯ್ತಾ?' (जेवलात का?) विचारणे हे आपुलकी आणि स्नेहाचे मुख्य लक्षण मानले जाते."
+      },
+      "exercises": [
+        {
+          "id": "m6",
+          "type": "matching",
+          "question": "Match conversational fluency expressions:",
+          "pairs": [
+            {"kannada": "ಸಹಾಯ ಮಾಡ್ತೀರಾ?", "match": "Can you help?"},
+            {"kannada": "ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ", "match": "In my opinion"},
+            {"kannada": "ಊಟ ಆಯ್ತಾ?", "match": "Did you have food?"},
+            {"kannada": "ಮತ್ತೆ ಸಿಗೋಣ", "match": "See you again"}
+          ],
+          "explanation": "Polite expressions used in professional and social everyday settings."
+        },
+        {
+          "id": "f6",
+          "type": "fill_blank",
+          "question": "Complete the friendly goodbye: 'ತುಂಬಾ ಸಂತೋಷ, ಮತ್ತೆ ________.'",
+          "options": ["ಸಿಗೋಣ", "ಹೋಗಿ", "ಇಲ್ಲ", "ಬೇಕಾ"],
+          "correct_answer": "ಸಿಗೋಣ",
+          "explanation": "'Matte sigōṇa' means let's meet again / see you again."
+        },
+        {
+          "id": "t6",
+          "type": "translation",
+          "question": "Translate: 'Can you please help me for a minute?'",
+          "options": ["ದಯವಿಟ್ಟು ಒಂದು ನಿಮಿಷ ಸಹಾಯ ಮಾಡ್ತೀರಾ?", "ಊಟ ಆಯ್ತಾ ಸರ್?", "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ", "ಕನ್ನಡ ಗೊತ್ತಿಲ್ಲ"],
+          "correct_answer": "ದಯವಿಟ್ಟು ಒಂದು ನಿಮಿಷ ಸಹಾಯ ಮಾಡ್ತೀರಾ?",
+          "explanation": "'Dayaviṭṭu' (please) + 'ondu nimiṣa' (one minute) + 'sahāya māḍtīrā?' (can you help?)."
+        },
+        {
+          "id": "r6",
+          "type": "role_play",
+          "prompt": "Your colleague greets you in the afternoon asking 'ಊಟ ಆಯ್ತಾ?'. How do you reply in natural Kannada?",
+          "suggested_response": "ಹೌದು, ಆಯ್ತು! ನಿಮ್ಮ ಊಟ ಆಯ್ತಾ? (Haudu, āytu! Nimma ūṭa āytā?)",
+          "explanation": "Yes, done! Did you have yours?"
+        }
+      ]
+    }
+  }
+]
